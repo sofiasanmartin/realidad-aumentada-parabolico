@@ -1,1 +1,1 @@
-# Parabilic path in AR
+# Parabolic path in AR
